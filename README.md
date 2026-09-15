@@ -1,5 +1,4 @@
-# YEOBOE ORBITAL HUB 
-  <a><img src='https://i.postimg.cc/LhdpBJ76/1788999577408.png'/></a><a><img
+# YEOBOE ORBITAL HUB
 
 🪐 fork our repository [fork](https://github.com/kkeizza/Keith/fork)
 
